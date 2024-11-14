@@ -28,7 +28,7 @@ https://www.figma.com/design/bJoZYwRHecrz1ainyOfvnH/RS-%2F-%D0%A2%D0%B5%D1%81%D1
 
 ### hotels.json
 
-`{
+```json {
   "hotels": [
     {
       "name": "Marina Inn",
@@ -101,4 +101,5 @@ https://www.figma.com/design/bJoZYwRHecrz1ainyOfvnH/RS-%2F-%D0%A2%D0%B5%D1%81%D1
       "last_review": ""
     }
   ]
-}`
+}
+```
